@@ -1,0 +1,5 @@
+total 8
+drwxrwxr-x  2 xthanvu xthanvu 4096 Nov 23 06:30 ./
+drwxr-xr-x 43 xthanvu xthanvu 4096 Nov 23 06:38 ../
+-rw-rw-r--  1 xthanvu xthanvu    0 Nov 23 06:41 myfile.txt
+-rw-rw-r--  1 xthanvu xthanvu    0 Nov 23 06:21 README
